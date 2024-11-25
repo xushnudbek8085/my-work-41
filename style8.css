@@ -1,0 +1,16 @@
+.box{
+    border-style: solid;
+    border-color: yellow;
+    border-width: 16px;
+
+}
+.block{
+    border-style: solid;
+    border-color: red;
+    border-width: 3px;
+}
+.a{
+    border-style: solid;
+    border-color: pink;
+    border-width: 7px;
+}
